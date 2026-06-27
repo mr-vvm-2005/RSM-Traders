@@ -1,0 +1,18 @@
+[
+  { "id": "p1",  "name": "Chocolates",        "nameTa": "சாக்லேட்டுகள்",              "category": "Chocolates",        "price": "Contact for Price", "image": "/assets/chocolates.png" },
+  { "id": "p2",  "name": "Candies",            "nameTa": "மிட்டாய்கள்",                "category": "Candies",           "price": "Contact for Price", "image": "/assets/candies.png" },
+  { "id": "p3",  "name": "Lollipops",          "nameTa": "லாலிபாப்ஸ்",                "category": "Lollipops",         "price": "Contact for Price", "image": "/assets/lollipops.png" },
+  { "id": "p4",  "name": "Eclairs",            "nameTa": "எக்லெயர்ஸ்",                "category": "Eclairs",           "price": "Contact for Price", "image": "/assets/eclairs.png" },
+  { "id": "p5",  "name": "Wafers",             "nameTa": "வேஃபர்ஸ்",                  "category": "Wafers",            "price": "Contact for Price", "image": "/assets/wafers.png" },
+  { "id": "p6",  "name": "Gems",               "nameTa": "ஜெம்ஸ்",                    "category": "Gems",              "price": "Contact for Price", "image": "/assets/choco_lentils.png" },
+  { "id": "p7",  "name": "Cones",              "nameTa": "கோன்ஸ்",                    "category": "Cones",             "price": "Contact for Price", "image": "/assets/cones.png" },
+  { "id": "p8",  "name": "Biscuits & Bakery",  "nameTa": "பிஸ்கட் & பேக்கரி",         "category": "Biscuits & Bakery", "price": "Contact for Price", "image": "/assets/biscuits.png" },
+  { "id": "p9",  "name": "Jelly & Juice",      "nameTa": "ஜெல்லி & ஜூஸ்",             "category": "Jelly & Juice",     "price": "Contact for Price", "image": "/assets/jelly.png" },
+  { "id": "p10", "name": "Palkova sweets",     "nameTa": "பால்கோவா இனிப்பு",           "category": "Palkova sweets",    "price": "Contact for Price", "image": "/assets/sweets.png" },
+  { "id": "p11", "name": "Chips",              "nameTa": "சிப்ஸ்",                    "category": "Chips",             "price": "Contact for Price", "image": "/assets/chips.png" },
+  { "id": "p12", "name": "Kadalai Mittai",     "nameTa": "கடலை மிட்டாய்",             "category": "Kadalai Mittai",    "price": "Contact for Price", "image": "/assets/mittai_namkeen.png" },
+  { "id": "p13", "name": "Traditional Snacks", "nameTa": "பாரம்பரிய தின்பண்டங்கள்",   "category": "Traditional Snacks","price": "Contact for Price", "image": "/assets/traditional_snacks.jpeg" },
+  { "id": "p14", "name": "90's Candy",         "nameTa": "90-களின் மிட்டாய்",         "category": "90's Candy",        "price": "Contact for Price", "image": "/assets/90s_candy.png" },
+  { "id": "p15", "name": "Kinder Joy",         "nameTa": "கிண்டர் ஜாய்",              "category": "Kinder Joy",        "price": "Contact for Price", "image": "/assets/kinder_joy.png" },
+  { "id": "p16", "name": "Kids Toys",          "nameTa": "குழந்தைகள் பொம்மைகள்",      "category": "Kids Toys",         "price": "Contact for Price", "image": "/assets/kids_toys.png" }
+]

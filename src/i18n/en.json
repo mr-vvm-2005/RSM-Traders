@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Your Trusted Wholesale Partner",
+    "subRegion": "Surandai · Tenkasi Region",
+    "shopNow": "Shop Now",
+    "whatsapp": "WhatsApp Us",
+    "desc": "Wholesale distributor of chocolates, candies, biscuits, wafers & kids products — 10+ years of trusted supply.",
+    "statYears": "Years Experience",
+    "statCats": "Product Categories",
+    "statOffices": "Office Locations"
+  },
+  "categories": {
+    "title": "Our Product Categories",
+    "browse": "Browse by type",
+    "chocolates": "Chocolates",
+    "candies": "Candies",
+    "lollipops": "Lollipops",
+    "eclairs": "Eclairs",
+    "wafers": "Wafers",
+    "gems": "Gems",
+    "cones": "Cones",
+    "biscuitsBakery": "Biscuits & Bakery",
+    "jellyJuice": "Jelly & Juice",
+    "palkovaSweets": "Palkova sweets",
+    "chips": "Chips",
+    "kadalaiMittai": "Kadalai Mittai",
+    "traditionalSnacks": "Traditional Snacks",
+    "90sCandy": "90's Candy",
+    "kinderJoy": "Kinder Joy",
+    "kidsToys": "Kids Toys"
+  },
+  "featured": {
+    "title": "Featured Products",
+    "viewAll": "View All Products →",
+    "topPicks": "Top picks"
+  },
+  "why": {
+    "title": "Why Choose Us",
+    "promise": "Our promise",
+    "experience": "10+ Years Experience",
+    "experienceDesc": "A decade of dependable wholesale supply across Surandai and Tenkasi.",
+    "trusted": "Trusted Supplier",
+    "trustedDesc": "Hundreds of retail and bulk partners rely on us every season.",
+    "pricing": "Competitive Pricing",
+    "pricingDesc": "Fair wholesale rates without compromising on quality.",
+    "stock": "Reliable Stock",
+    "stockDesc": "Well-stocked inventory so your shelves are never empty."
+  },
+  "founder": {
+    "title": "Meet the Founder",
+    "leadership": "Leadership",
+    "name": "M. Mani Maran",
+    "role": "Wholesale Business – 10 Years",
+    "intro": "With over 10 years in the wholesale trade, Mani Maran built R.S.M Traders on a simple promise: honest pricing, reliable stock, and a personal relationship with every retailer we serve.",
+    "tag1": "Surandai",
+    "tag2": "Tenkasi Region",
+    "tag3": "10+ Years",
+    "tag4": "Trusted Supplier"
+  },
+  "cta": {
+    "title": "Ready to Stock Up?",
+    "subtitle": "Reach out on WhatsApp or call us directly for the best wholesale rates.",
+    "getInTouch": "Get in touch",
+    "stockists": "Stockists:",
+    "whatsapp": "Chat on WhatsApp",
+    "call": "Call Now"
+  },
+  "products": {
+    "title": "Our Products",
+    "all": "All",
+    "contactForPrice": "Contact for Price",
+    "enquire": "Enquire on WhatsApp",
+    "callNow": "Call Now",
+    "empty": "No products available"
+  },
+  "about": {
+    "title": "About R.S.M Traders",
+    "founderLabel": "Founder & Owner",
+    "founderRole": "Wholesale Business – 10 Years Experience",
+    "body1": "R.S.M Traders has been a dependable name in wholesale distribution for over 10 years, serving retail shop owners, bulk buyers and local distributors across Surandai and the Tenkasi region.",
+    "body2": "Founded and led by M. Mani Maran, our business is built on trust, fair pricing and consistent stock availability — the things every retailer actually needs from a wholesale partner.",
+    "body3": "We stock a wide variety of wholesale confectionery including chocolates, candies, biscuits, wafers, kids toys, and traditional sweets, sourced from trusted brands like Oshon Vijay, Allwin Jelly, and Yawin.",
+    "headOffice": "Head Office",
+    "branch": "Branch Office",
+    "hours": "Working Hours",
+    "contact": "Contact",
+    "stockists": "Our Stockist Brands",
+    "registration": "Registration Details",
+    "gst": "GSTIN",
+    "fssai": "FSSAI Licence No"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Working Hours",
+    "hoursValue": "11:00 AM – 9:00 PM",
+    "location": "Our Location",
+    "whatsapp": "Message on WhatsApp",
+    "headOffice": "Head Office",
+    "branch": "Branch Office",
+    "stockists": "Stockist Brands",
+    "formTitle": "Send Us a Message",
+    "formSubtitle": "We'll get back to you as soon as possible.",
+    "formName": "Your Name",
+    "formNamePlaceholder": "Enter your name",
+    "formPhone": "Phone Number",
+    "formPhonePlaceholder": "Enter your phone number",
+    "formMessage": "Message",
+    "formMessagePlaceholder": "Tell us what you need — product, quantity, etc.",
+    "formSubmit": "Send Message",
+    "formSuccess": "Thank you! Your message has been sent. We'll contact you soon.",
+    "formError": "Something went wrong. Please call or WhatsApp us directly."
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "credit": "Designed & Developed by Site Studio"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "The page you're looking for doesn't exist.",
+    "goHome": "Go to Home"
+  }
+}
