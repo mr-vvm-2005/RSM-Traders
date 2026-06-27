@@ -51,21 +51,23 @@ export default function ProductCard({ product }) {
           {product.price === 'Contact for Price' ? t('products.contactForPrice') : product.price}
         </p>
 
-        {/* Order buttons – fixed height, no-wrap text */}
-        <div className="flex gap-1.5">
+        {/* Order buttons – responsive layout: stack on mobile, side-by-side on sm+ */}
+        <div className="flex flex-col gap-1.5 sm:flex-row">
           <a
             href={whatsappLink(product.name)}
             target="_blank"
             rel="noopener noreferrer"
-            className="btn-shine flex flex-1 items-center justify-center gap-1 rounded-lg bg-gold py-2 text-xs font-bold text-espresso transition-colors hover:bg-honey whitespace-nowrap"
+            className="btn-shine flex min-w-0 flex-1 items-center justify-center gap-1 rounded-lg bg-gold px-1 py-2 text-[11px] font-bold text-espresso transition-colors hover:bg-honey"
           >
-            💬 WhatsApp
+            <span className="shrink-0">💬</span>
+            <span className="truncate">WhatsApp</span>
           </a>
           <a
             href={`tel:+91${PHONE_NUMBERS[0]}`}
-            className="btn-shine flex flex-1 items-center justify-center gap-1 rounded-lg border border-gold/50 bg-gold/10 py-2 text-xs font-bold text-honey transition-colors hover:bg-gold/20 hover:border-gold whitespace-nowrap"
+            className="btn-shine flex min-w-0 flex-1 items-center justify-center gap-1 rounded-lg border border-gold/50 bg-gold/10 px-1 py-2 text-[11px] font-bold text-honey transition-colors hover:bg-gold/20 hover:border-gold"
           >
-            📞 {t('products.callNow')}
+            <span className="shrink-0">📞</span>
+            <span className="truncate">{t('products.callNow')}</span>
           </a>
         </div>
       </div>
