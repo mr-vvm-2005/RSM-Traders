@@ -1,27 +1,146 @@
-# R.S.M Traders — Wholesale Website
+# 🌐 Business Website (Product Showcase)
 
-Built by Site Studio. React (Vite) + Tailwind CSS, bilingual (English/Tamil), WhatsApp-first.
+## 📌 Overview
 
-## Run locally
+This is a responsive business website built to showcase products, provide business information, and enable customer interaction. The website supports both English and Tamil languages and is optimized for SEO and performance.
 
-```bash
+---
+
+## 🚀 Features
+
+* ✅ Fully responsive design (mobile, tablet, desktop)
+* 🌍 Tamil language toggle on homepage
+* 🛍️ Product catalog with categories
+* 📞 Click-to-call and WhatsApp integration
+* 📍 Google Maps location embed
+* 📩 Contact form (Netlify Forms)
+* 🔎 SEO optimized (meta tags, sitemap, OG tags)
+* ⚡ Fast loading with optimized images
+
+---
+
+## 🧱 Project Structure
+
+```
+/project-root
+│── index.html
+│── /assets
+│   ├── images
+│   ├── icons
+│── /css
+│── /js
+│── /data (products JSON)
+│── sitemap.xml
+│── robots.txt
+```
+
+---
+
+## ⚙️ Setup & Installation
+
+### 1. Clone the repository
+
+```
+git clone https://github.com/your-repo-name.git
+```
+
+### 2. Install dependencies (if applicable)
+
+```
 npm install
+```
+
+### 3. Run locally
+
+```
 npm run dev
 ```
 
-## Build for production
+### 4. Build for production
 
-```bash
+```
 npm run build
 ```
-Output goes to `dist/`. Deploy that folder to Netlify (a `netlify.toml` is already included for SPA routing) or Vercel.
 
-## What's included
+---
 
-- **Pages**: Home, Products (with category filter via URL `?category=`), About, Contact
-- **i18n**: `src/i18n/en.json` + `src/i18n/ta.json`, instant toggle (no reload), saved to localStorage
-- **Products**: `src/data/products.json` — swap in real images/prices anytime, no code changes needed
-- **WhatsApp**: `src/utils/whatsapp.js` builds `wa.me` links with `encodeURIComponent`
-- **SEO**: meta/OG tags in `index.html`, `public/robots.txt`, `public/sitemap.xml`, Google site verification tag included
-- **Design**: dark premium theme — Espresso #2B1B14 / Cocoa #4A2C1D / Gold #D4A64A / Honey #F2C66D / Cream #F5E6D3, Playfair Display + Poppins, Noto Sans Tamil for Tamil text
+## 🌐 Deployment (Netlify)
 
+### Option 1: Drag & Drop
+
+* Run `npm run build`
+* Upload `/dist` folder to Netlify
+
+### Option 2: Git Deployment
+
+* Connect GitHub repo to Netlify
+* Build command: `npm run build`
+* Publish directory: `dist`
+
+---
+
+## 🔧 Configuration
+
+### Contact Details
+
+Update in code:
+
+* Phone: 9578312345
+* Email: [81maranmani@gmail.com](mailto:81maranmani@gmail.com)
+
+### Google Verification
+
+```
+<meta name="google-site-verification" content="KLGk_KVQmJfXXCrSEIcC_dGShpnhl5D70sGS6pLC98E" />
+```
+
+### Google Maps
+
+Replace embed link with actual location iframe.
+
+---
+
+## 🌍 SEO Setup
+
+* Add meta title & description
+* Configure Open Graph tags
+* Submit sitemap to Google Search Console:
+
+```
+https://yourdomain.com/sitemap.xml
+```
+
+---
+
+## 📦 Product Data
+
+Products are managed via JSON:
+
+* Name
+* Category
+* Image
+* Price / Contact option
+
+---
+
+## ⚠️ Notes
+
+* Ensure all images are optimized (.webp)
+* Verify Tamil translations are complete
+* Replace placeholder content before production
+* Add GSTIN & FSSAI if required
+
+---
+
+## 📈 Future Improvements
+
+* Admin panel for product management
+* Payment integration
+* Advanced analytics tracking
+* Multi-language expansion
+
+---
+
+## 📄 License
+
+This project is for client/business use. Modify and reuse as needed.
